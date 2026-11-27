@@ -1,0 +1,7 @@
+{
+  "version": "0.9.1",
+  "kind": "app",
+  "file": "updates/cliphaus-app-0.9.1.zip",
+  "electron": "33.2.1",
+  "notes": "Update-Knopf, Kunden auf Festplatte, Bild fehlt statt Lädt, Vollbild, lokale KI, Bilder-Schutz."
+}
